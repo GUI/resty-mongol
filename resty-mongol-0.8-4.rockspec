@@ -1,7 +1,7 @@
 package = "resty-mongol"
 version = "0.8-4"
 source = {
-  url = "https://github.com/Olivine-Labs/resty-mongol/archive/v0.8.tar.gz",
+  url = "https://github.com/GUI/resty-mongol/archive/fix-tests-rock.tar.gz",
   dir = "resty-mongol-0.8"
 }
 description = {
